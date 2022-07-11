@@ -2,7 +2,7 @@ import requests
 
 parameters = {
     "amount": 10,
-    "answer": "boolean",
+    "type": "boolean",
     "category": 18
 }
 
